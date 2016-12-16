@@ -10,7 +10,6 @@ Sentinel-2 utilities.
 - [RSUtils](https://github.com/IgorGarkusha/RSUtils): Remote Sensing Utilities
 - [sentinel-s3](https://github.com/developmentseed/sentinel-s3): python libraries for extracting Sentinel-2's metadata from Amazon S3
 - [sat-utils](https://github.com/sat-utils): open source utilities for searching for/processing satellite data
-
 - [sen2cor](http://step.esa.int/main/third-party-plugins-2/sen2cor/): is a processor for Sentinel-2 Level 2A product generation and formatting
 - [Spectral Discovery](http://www.geosage.com/highview/download.html): GUI- and DOS-based tools
 
