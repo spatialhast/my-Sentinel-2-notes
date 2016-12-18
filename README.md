@@ -25,7 +25,7 @@ Sentinel-2 utilities.
 ## Other
 
 - [Sentinel -2 Twitter Bot](https://twitter.com/sentinel2bot): Sentinel-2 Twitter Bot
-
+- [Postcards from space](http://www.sentinel-hub.com/apps/postcards): The application creates a photo of a desired region on Earth as seen by Sentinel-2 satellite
 
 ## License
 
