@@ -21,6 +21,11 @@ Sentinel-2 utilities.
 - [Land Viewer](https://lv.eosda.com/): Simply search and view Landsat 8 and Sentinel-2 imagery historical archive
 - [Satellite search](https://remotepixel.ca/projects/satellitesearch.html): A simple and light interface to search for Landsat-8 and Sentinel-2 Images
 
+## Other
+
+- [Sentinel -2 Twitter Bot](https://twitter.com/sentinel2bot): Sentinel-2 Twitter Bot
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
