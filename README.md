@@ -11,6 +11,7 @@ Sentinel-2 utilities.
 - [sentinel-s3](https://github.com/developmentseed/sentinel-s3): python libraries for extracting Sentinel-2's metadata from Amazon S3
 - [sat-utils](https://github.com/sat-utils): open source utilities for searching for/processing satellite data
 - [sen2cor](http://step.esa.int/main/third-party-plugins-2/sen2cor/): is a processor for Sentinel-2 Level 2A product generation and formatting
+- [sen2cor docker](https://github.com/lvhengani/sen2cor_docker): is a docker for sen2cor
 - [Sentinel-2 Toolbox](https://sentinel.esa.int/web/sentinel/toolboxes/sentinel-2): the Sentinel-2 Toolbox consists of a rich set of visualisation, analysis and processing tools for the exploitation of MSI data from the upcoming Sentinel-2 mission
 - [Semi-Automatic Classification Plugin (SCP)](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html): is a free open source plugin for QGIS that allows for the semi-automatic classification (also supervised classification) of remote sensing images
 - [Spectral Discovery](http://www.geosage.com/highview/download.html): GUI- and DOS-based tools
