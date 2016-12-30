@@ -26,9 +26,9 @@ Sentinel-2 utilities.
 - [Sentinel Image browser](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html): Sentinel Image browser
 
 ## QGIS Generated Color Map Export File
-- [NDVI]()
-- [NDSI]()
-- [NDWI]()
+- [NDVI](https://github.com/spatialhast/awesome-sentinel-2/blob/master/color/ndvi.txt)
+- [NDSI](https://github.com/spatialhast/awesome-sentinel-2/blob/master/color/ndsi.txt)
+- [NDWI](https://github.com/spatialhast/awesome-sentinel-2/blob/master/color/ndwi.txt)
 
 ## Other
 
