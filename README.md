@@ -7,9 +7,10 @@ Sentinel-2 utilities.
 - [awsdownload](https://github.com/kraftek/awsdownload): Sentinel-2&Landsat-8 downloader
 - [Sentinel-download](https://github.com/olivierhagolle/Sentinel-download): Automated download of Sentinel-2 L1C data from ESA
 - [sentinelsat](https://github.com/ibamacsr/sentinelsat): Utility to access the API of Copernicus Sentinels Scientific Data Hub
-- [fetchFromGoogleCloud](https://github.com/vascobnunes/fetchLandsatSentinelFromGoogleCloud): find and download Landsat and Sentinel-2 data from the public Google Cloud
+- [FeLS](https://github.com/vascobnunes/fetchLandsatSentinelFromGoogleCloud): find and download Landsat and Sentinel-2 data from the public Google Cloud
 - [RSUtils](https://github.com/IgorGarkusha/RSUtils): Remote Sensing Utilities
 - [sentinel-s3](https://github.com/developmentseed/sentinel-s3): python libraries for extracting Sentinel-2's metadata from Amazon S3
+- [Sentinel2 Tools](https://github.com/Woodstonelee/sentinel2-tools): Collection of tools to search, download and process Sentinel-2 data
 - [sat-utils](https://github.com/sat-utils): open source utilities for searching for/processing satellite data
 - [satellite-search](https://github.com/barnabygordon/satellite-search): a tool to search for sentinel imagery by polygon
 - [sen2cor](http://step.esa.int/main/third-party-plugins-2/sen2cor/): is a processor for Sentinel-2 Level 2A product generation and formatting
