@@ -25,6 +25,7 @@ Sentinel-2 utilities.
 - [Land Viewer](https://lv.eosda.com/): Simply search and view Landsat 8 and Sentinel-2 imagery historical archive
 - [Satellite search](https://remotepixel.ca/projects/satellitesearch.html): A simple and light interface to search for Landsat-8 and Sentinel-2 Images
 - [Sentinel Image browser](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html): Sentinel Image browser
+- [SEDAS](https://geobrowser.satapps.org/): Sentinel Data Access Service (SEDAS)
 
 ## QGIS Generated Color Map Export File
 - [NDVI](https://github.com/spatialhast/awesome-sentinel-2/blob/master/color/ndvi.txt)
