@@ -18,6 +18,7 @@ Sentinel-2 utilities.
 - [Sentinel-2 Toolbox](https://sentinel.esa.int/web/sentinel/toolboxes/sentinel-2): the Sentinel-2 Toolbox consists of a rich set of visualisation, analysis and processing tools for the exploitation of MSI data from the upcoming Sentinel-2 mission
 - [Semi-Automatic Classification Plugin (SCP)](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html): is a free open source plugin for QGIS that allows for the semi-automatic classification (also supervised classification) of remote sensing images
 - [Spectral Discovery](http://www.geosage.com/highview/download.html): GUI- and DOS-based tools
+- [s2reader](https://github.com/ungarj/s2reader): A simple python library to read Level-1C metadata from SAFE files.
 
 ## Viewers
 
